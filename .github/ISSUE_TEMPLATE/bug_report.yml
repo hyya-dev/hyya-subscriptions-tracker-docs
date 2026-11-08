@@ -1,0 +1,31 @@
+name: Bug report
+description: Something in the app doesn't work as it should
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. Please don't include receipts, email addresses or anything private: issues are public.
+        For a security problem, don't file an issue. See SECURITY.md.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Device
+      options: [iPhone, Android]
+    validations: { required: true }
+  - type: input
+    id: version
+    attributes:
+      label: App and system version
+      placeholder: "for example: app 2.7.1, iOS 26.1"
+    validations: { required: true }
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations: { required: true }
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to make it happen again
+      placeholder: "1. …\n2. …"
