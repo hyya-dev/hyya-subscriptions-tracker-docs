@@ -1,8 +1,8 @@
 # Changelog
 
-Each store release, with what was new in it. Releases whose only note was "general bug fixes and stability improvements" are listed by version alone. Dates are when the iPhone release went live.
+Each store release, with what was new in it. Releases whose only note was "general bug fixes and stability improvements" are listed by version alone. Dates are when the release went live; from 2.7.1 on, each store is dated separately.
 
-## 2.7.1 (2026-11-04)
+## 2.7.1 (App Store 2026-11-04, Google Play 2026-11-04)
 General bug fixes and stability improvements.
 
 ## 2.7.0 (2026-11-01)
