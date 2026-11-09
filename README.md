@@ -1,6 +1,6 @@
-# hYYa Subscriptions Tracker
+# hYYa Subscription Tracker
 
-**Never again blindsided by a bill.**
+**Bill Reminder & Organizer.** Never again blindsided by a bill.
 
 Track every subscription and repeating bill, and get a reminder before each renewal, without ever connecting a bank or card.
 
