@@ -2,6 +2,9 @@
 
 Each store release, with what was new in it. Releases whose only note was "general bug fixes and stability improvements" are listed by version alone. Dates are when the release went live; from 2.7.1 on, each store is dated separately.
 
+## 2.7.2 (App Store 2026-11-09)
+Store listing only: the app is now called hYYa Subscription Tracker, with the subtitle "Bill Reminder & Organizer". The app itself is unchanged. Google Play's listing took the new name the same day; its app stays at 2.7.1.
+
 ## 2.7.1 (App Store 2026-11-04, Google Play 2026-11-04)
 General bug fixes and stability improvements.
 

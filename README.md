@@ -6,7 +6,7 @@ Track every subscription and repeating bill, and get a reminder before each rene
 
 **→ [Download and full details at hyya.com/hyya-subscriptions-tracker.html](https://hyya.com/hyya-subscriptions-tracker.html)**
 
-[![App Store](https://img.shields.io/badge/iPhone-App%20Store-0071e3)](https://apps.apple.com/app/hyya-subscriptions-tracker/id6760548018)
+[![App Store](https://img.shields.io/badge/iPhone-App%20Store-0071e3)](https://apps.apple.com/app/hyya-subscription-tracker/id6760548018)
 [![Google Play](https://img.shields.io/badge/Android-Google%20Play-34a853)](https://play.google.com/store/apps/details?id=com.hyya.subscriptionstracker)
 
 ---
