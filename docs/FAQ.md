@@ -5,7 +5,7 @@ Back to the [README](../README.md) · Full details at [hyya.com](https://hyya.co
 ## Getting started
 
 **How do I sign in?**
-Enter your email address. We send a 6-digit code to it, and the app signs you in when you type it. There is no password.
+Enter your email address. We send a 6-digit code to it, and the app signs you in when you type it. There is no password. Or tap **Start without an email** and begin straight away; add your email later in **Settings** to get reminders on your other devices and to forward receipts.
 
 **How do I add a subscription?**
 Three ways:
@@ -65,7 +65,7 @@ Yes. Turn on **Biometric Lock** in **Settings › Security**. It also hides amou
 Export everything as a spreadsheet with **Settings › Export to CSV**. Delete your account and all its data with **Settings › Delete Account**.
 
 **Does my data follow me to a new phone?**
-Yes. Sign in with the same email address on any device to see your subscriptions.
+Yes. Sign in with the same email address on any device to see your subscriptions. If you started without an email, add one in **Settings** first.
 
 ## Still stuck?
 
