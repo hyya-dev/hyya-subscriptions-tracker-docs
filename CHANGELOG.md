@@ -2,7 +2,7 @@
 
 Each store release, with what was new in it. Releases whose only note was "general bug fixes and stability improvements" are listed by version alone. Dates are when the release went live; from 2.7.1 on, each store is dated separately.
 
-## 2.9.0 (App Store 2026-11-23)
+## 2.9.0 (App Store 2026-11-23, Google Play 2026-11-27)
 General bug fixes and stability improvements.
 
 ## 2.8.0 (App Store and Google Play 2026-11-16)
